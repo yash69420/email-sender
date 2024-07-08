@@ -1,4 +1,5 @@
 Email Sender Service
+
 A Node.js application for sending emails using Nodemailer. This service is suitable for sending OTPs, CTAs, and other forms. It is configurable via environment variables and supports various SMTP providers.
 
 Features
